@@ -1,16 +1,16 @@
-### Hi there 👋
+## Приветствую вас на моем гитхаб-профиле :)
 
-<!--
-**RedLeader167/RedLeader167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Обо мне
+Ну вообщем я просто разработчик, люблю эзотерические языки,
+обожаю писать код там, где он не должен быть. Или, делать
+то, чего вообще не должно существовать. Например, HTTP
+сервер на VBScript. Вообщем, странный я человек, да.
 
-Here are some ideas to get you started:
+#### Дискорд
+`R3D#0326`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Активность
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
+
+![На каких языках я пишу](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)

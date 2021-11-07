@@ -11,6 +11,6 @@
 
 ## Активность
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
+![Статистика](https://github-readme-stats.vercel.app/api?username=RedLeader167&theme=dark&show_icons=true)
 
-![На каких языках я пишу](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)
+![На каких языках я пишу](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLeader167&theme=dark&layout=compact)

@@ -1,16 +1,19 @@
-## Приветствую вас на моем гитхаб-профиле :)
+## Welcome :)
 
-#### Обо мне
-Ну вообщем я просто разработчик, люблю эзотерические языки,
-обожаю писать код там, где он не должен быть. Или, делать
-то, чего вообще не должно существовать. Например, HTTP
-сервер на VBScript. Вообщем, странный я человек, да.
+#### About me
+Hello, I am GeckoNerd/JustKenux! I am just a backend developer, 
+who loves esoteric proglangs, 
+and I love writing some weird stuff, or reinventing bicycles 
+and stuff. Many projects of mine in my repos are old and were 
+made when I was much less experienced.
 
-#### Дискорд
-`JustKenux#0326`
+#### Contact
+- Website: [click](https://geckonerd.pw)
+- Discord: `@geckwwo`
+- Email: `me <at> geckonerd.pw`
 
-## Активность
+#### Activity
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=RedLeader167&theme=dark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RedLeader167&theme=dark&show_icons=true)
 
-![На каких языках я пишу](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLeader167&theme=dark&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLeader167&theme=dark&layout=compact)
